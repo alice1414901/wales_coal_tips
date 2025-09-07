@@ -17,4 +17,4 @@ The processed_data folder includes:
 This is the data used to create the visualisation, as well as the initial notebook used to perform basic processing (convert to topoJSON, filtering to just Wales etc).
 
 # Hosted project
-The web address for the hosted project is: https://github.com/alice1414901/wales_coal_tips
+The web address for the hosted project is: https://alice1414901.github.io/wales_coal_tips/
